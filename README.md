@@ -27,14 +27,4 @@ This project reflects my passion for full-stack development and creating user-ce
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-home_page_project/
-├── wwwroot/               # Static assets (CSS, JS, images)
-├── Views/                 # HTML / Razor pages
-├── Controllers/           # Backend logic
-├── Models/                # Data models
-├── appsettings.json       # Configuration file
-├── Program.cs             # Application entry point
-└── README.md              # Documentation (you’re here!)
+#
